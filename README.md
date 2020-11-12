@@ -9,13 +9,13 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AndersonUfop/Desafio03-Conceitos-ReactJS?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://www.linkedin.com/in/anderson-fernandes-8b5a50135/">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Anderson-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
+  <a href="https://github.com/AndersonUfop/Desafio03-Conceitos-ReactJS/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/AndersonUfop/Desafio03-Conceitos-ReactJS?style=social">
   </a>
 </p>
@@ -71,5 +71,4 @@ Para esse desafio temos os seguintes testes:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
 
 ---
-
-Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com 💜 by Anderson :wave: [Entre no meu linkedin!](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
