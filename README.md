@@ -68,7 +68,7 @@ Para esse desafio temos os seguintes testes:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 Feito com 💜 by Anderson :wave: [Entre no meu linkedin!](https://www.linkedin.com/in/anderson-fernandes-8b5a50135/)
